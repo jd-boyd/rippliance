@@ -1,5 +1,10 @@
 # rippliance
 
+Pieces to build an appliance for ripping CDs and some other optical media with a Raspberry Pi
+
+
+## Hardware
+
 To connect an internal SATA DVD drive to a raspberry pi, I am using
 this:
 https://www.amazon.com/gp/product/B00MVRS38G/
